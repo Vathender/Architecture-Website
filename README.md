@@ -1,2 +1,2 @@
 # Architecture-Website
-Architecture-Website for Intern
+Architecture website for Intern
